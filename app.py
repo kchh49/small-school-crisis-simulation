@@ -18,7 +18,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 
 HIGH_RISK_FILE  = os.path.join(DATA_DIR, "(결과)고위험학교.csv")
-LIME_FILE       = os.path.join(DATA_DIR, "LIME_분석.csv")
+LIME_FILE       = os.path.join(DATA_DIR, "(결과)LIME_분석.csv")
 REC_FILE        = os.path.join(DATA_DIR, "추천결과.csv")
 CONSOL_FILE     = os.path.join(DATA_DIR, "(결과)통폐합_시뮬.csv")
 INTEG_FILE      = os.path.join(DATA_DIR, "(결과)통합운영_시뮬.csv")
