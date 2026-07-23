@@ -1,25 +1,34 @@
 # 🏫 소규모 학교 위기 예측 및 시뮬레이션
 
 > 제8회 교육 공공데이터 AI활용 대회 장려상 출품작
-<img width="1260" height="641" alt="image" src="https://github.com/user-attachments/assets/36e53d86-71e3-4a42-9c96-88315a44abb6" />
+
 
 
 <br>
+
+
+
+
 
 ## 서비스 바로가기
-https://small-school-crisis-simulation.onrender.com
+
+[![Live Demo](https://img.shields.io/badge/🏫_small_school_crisis_simulation-바로가기-D8D2F0?style=for-the-badge&labelColor=E8E8EC)](https://small-school-crisis-simulation.onrender.com)
+
 
 <br>
 
+---
 ## 프로젝트 개요
 
 소규모 학교 위기는 단순한 학생 수 감소를 넘어 교육 여건 저하와 지역 소멸로 이어지는 복합 문제다. 기존 연구는 단일 지역·사례 중심의 사후 분석에 머물러 전국 단위 조기 예측과 대안 비교가 부재하다.
 
 이에 본 프로젝트는 전국 초·중학교 공공데이터를 기반으로 XGBoost 앙상블 AI 위기 예측 모델을 구축하고, OSRM 실도로거리 기반 통폐합·통합운영·유지 3가지 시나리오를 자동 비교하는 데이터 기반 의사결정 지원 대시보드를 제안한다.
 
+
+
 <br>
 
-
+---
 ## 주요 기능
 
 - 전국 고위험·중위험 학교 분포 지도
@@ -31,11 +40,14 @@ https://small-school-crisis-simulation.onrender.com
 
 <br>
 
+---
+
 ## 사용자 흐름
 <img width="886" height="744" alt="image" src="https://github.com/user-attachments/assets/59f27c9a-4406-409e-b67d-857fe0c873bc" />
 
 <br>
-<br>
+
+---
 
 ## 파이프라인
 
@@ -48,6 +60,8 @@ https://small-school-crisis-simulation.onrender.com
 7. Dash 대시보드
 
 <br>
+
+---
 
 ## 모델 성능
 
@@ -95,7 +109,26 @@ https://small-school-crisis-simulation.onrender.com
 
 
 <br>
+
+---
+
+## 대시보드 화면 구성
+
 <br>
+
+
+| ![첫 화면](https://github.com/user-attachments/assets/94b6f60f-f015-4b88-8ff5-5e18ffc6ed1a) | ![학교 선택](https://github.com/user-attachments/assets/d4d59846-9e5f-4e28-835d-5d2acd202ecb) | ![해당 학교 분석](https://github.com/user-attachments/assets/b819dadd-a016-4a53-b6f3-8ed2f860bcd5)|
+|:---:|:---:|:---:|
+| **첫 화면** | **학교 선택** | **해당 학교 분석** |
+
+
+| ![통폐합 시뮬레이션](https://github.com/user-attachments/assets/22a62cae-dd53-4ddf-8eff-7acf36661049) | ![통합운영 시뮬레이션](https://github.com/user-attachments/assets/57cf64b6-19ed-4cc6-a797-c22879f4430b) | ![유지 시뮬레이션](https://github.com/user-attachments/assets/f9790b32-d9c4-4de4-a143-3e67b1916b5b) |
+|:---:|:---:|:---:|
+| **통폐합 시뮬레이션** | **통합운영 시뮬레이션** | **유지 시뮬레이션** |
+
+<br>
+
+---
 
 ## 기술 스택
 
@@ -110,7 +143,8 @@ https://small-school-crisis-simulation.onrender.com
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 <br>
-<br>
+
+---
 
 ## 파일 구조
 
