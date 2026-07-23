@@ -1,6 +1,7 @@
 # 🏫 소규모 학교 위기 예측 및 시뮬레이션
 
 > 제8회 교육 공공데이터 AI활용 대회 장려상 출품작
+> https://www.2026edudataaicontest.com/
 
 
 
