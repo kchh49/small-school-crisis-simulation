@@ -10,10 +10,11 @@
 
 
 
-
+---
 ## 서비스 바로가기
 
-[![Live Demo](https://img.shields.io/badge/🏫_small_school_crisis_simulation-바로가기-D8D2F0?style=for-the-badge&labelColor=E8E8EC)](https://small-school-crisis-simulation.onrender.com)
+
+[![Live Demo](https://img.shields.io/badge/🔗-바로가기-E5E1F5?style=for-the-badge&labelColor=E5E1F5)](https://small-school-crisis-simulation.onrender.com)
 
 
 <br>
