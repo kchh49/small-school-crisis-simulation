@@ -1,6 +1,8 @@
 # 🏫 소규모 학교 위기 예측 및 시뮬레이션
 
 > 제8회 교육 공공데이터 AI활용 대회 장려상 출품작
+<img width="1260" height="641" alt="image" src="https://github.com/user-attachments/assets/36e53d86-71e3-4a42-9c96-88315a44abb6" />
+
 
 <br>
 
